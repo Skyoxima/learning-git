@@ -6,3 +6,6 @@ console.log('Urgent bug fix done');
 console.log("I am implementing a feature here...");
 console.log("I am implementing a feature here...");
 console.log("I am implementing a feature here...");
+
+
+console.log('TUTORIAL FINISHED')
